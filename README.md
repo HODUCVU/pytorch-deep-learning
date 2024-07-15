@@ -16,7 +16,7 @@ Welcome to the [Zero to Mastery Learn PyTorch for Deep Learning course](https://
 * [About this course](https://github.com/mrdbourke/pytorch-deep-learning#about-this-course)
 * [Status](https://github.com/mrdbourke/pytorch-deep-learning#status) (the progress of the course creation)
 * [Log](https://github.com/mrdbourke/pytorch-deep-learning#log) (a log of the course material creation process)
-
+* [Notebook](https://chain-spade-1dd.notion.site/PyTorch-a41d08358b2f4934b43a329a4bafd941?pvs=4)
 ## Course materials/outline
 
 * 📖 **Online book version:** All of course materials are available in a readable online book at [learnpytorch.io](https://learnpytorch.io).
